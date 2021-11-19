@@ -9,7 +9,7 @@ const { MongoClient, ObjectId } = require("mongodb");
 
 const url = "mongodb+srv://jguilhermerp:<12345>@cluster0.mszlq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
-const dbName = "ocean_bancodados_18_11_2021";
+const dbName = "ocean-backend-nuvem-19-11-2022";
 
 async function main() {
     
